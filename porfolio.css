@@ -282,20 +282,24 @@
     .buttons{
         display: flex;
         flex-direction: column;
+        margin-left: -171px;
     }
     .hamburger{
-        margin-top: -684px;
+        margin-top: -618px;
     }
     .home{
         margin-left: 13px;
     }
     .infoContainer{
         margin-right: 30px;
-        padding: 20px;
-        height: 85vh;
+        padding: 16px;
+        height: 70vh;
     }
     .devImg img{
-        height: 111px;
+        height: 163px;
+        position: absolute;
         /* display: none; */
+        top: 508px;
+        left: 201px;
     }
 }
